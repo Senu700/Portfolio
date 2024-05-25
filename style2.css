@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: url('cosmos.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.7);
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.space-facts {
+    background: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.space-facts h2 {
+    color: #333;
+}
+
+.space-facts ul {
+    list-style-type: none;
+}
+
+.space-facts li {
+    margin-bottom: 10px;
+}
+
+.solar-system {
+    position: relative;
+    width: 200px; 
+    height: 200px; 
+}
+
+
+
